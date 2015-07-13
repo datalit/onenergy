@@ -1,6 +1,6 @@
-# onenergy
+# Ontario Energy Use Data Cleaning
 
-This repository is created to show the data cleansing process using Pandas. The data being cleaned is the [Ontario energy use and green house gases emitted by the Broader Public Sector data](http://www.ontario.ca/data/energy-use-and-greenhouse-gas-emissions-broader-public-sector).
+This repository is created to show the data cleansing steps using Pandas. The data being cleaned is the [Ontario energy use and green house gases emitted by the Broader Public Sector data](http://www.ontario.ca/data/energy-use-and-greenhouse-gas-emissions-broader-public-sector).
 
 ##Description:
 ###Energy use and greenhouse gas emissions for the Broader Public Sector

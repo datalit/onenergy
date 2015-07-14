@@ -1,6 +1,8 @@
 # Ontario Energy Use Data Cleaning
 
-This repository is created to show the data cleansing steps using Pandas. 
+This repository is created to show the data cleansing steps using Pandas.
+The tutorial file is ONenergy.ipynb You can either download it and run ```ipython notebook ONenergy.ipynb``` interactively in your terminal, or read it on GitHub.
+
 The data used is from [Energy use and green house gases emitted by the Broader Public Sector data](http://www.ontario.ca/data/energy-use-and-greenhouse-gas-emissions-broader-public-sector).
 
 ##Description:
